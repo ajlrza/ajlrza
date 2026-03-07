@@ -14,12 +14,12 @@ I'm a backend and full-stack developer based in the Philippines. I specialize in
 
 ### 💻 What I'm Building
 
-**1. P.O.V Startup**
+**1. P.O.V Startup** <br>
 Built a globally distributed waitlist API for an early-stage startup. 
 * *Tech:* Cloudflare Workers, Hono, Drizzle, PostgreSQL. 
 * *Focus:* Edge execution and handling high traffic without bottlenecking the database.
 
-**2. Client Booking Web App**
+**2. Client Booking Web App** <br>
 A full-stack client portal built from scratch.
 * *Tech:* Next.js, Supabase (Postgres), Auth.js, Sanity CMS, Google Calendar API.
 * *Focus:* Secure authentication, third-party API orchestration, and seamless booking experience
