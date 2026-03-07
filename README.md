@@ -15,7 +15,6 @@ I'm a backend and full-stack developer based in the Philippines. I specialize in
 ### 💻 What I'm Building
 
 **1. P.O.V Startup**
-- Backend Infrastructure
 Built a globally distributed waitlist API for an early-stage startup. 
 * *Tech:* Cloudflare Workers, Hono, Drizzle, PostgreSQL. 
 * *Focus:* Edge execution and handling high traffic without bottlenecking the database.
