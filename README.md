@@ -24,7 +24,7 @@ A full-stack client portal built from scratch.
 * *Tech:* Next.js, Supabase (Postgres), Auth.js, Sanity CMS, Google Calendar API.
 * *Focus:* Secure authentication, third-party API orchestration, and seamless booking experience
 
-**3. MangaRoom**
+**3. MangaRoom** <br>
 A full-stack app with a machine learning integration to dynamically predict reading pace.
 * *Tech:* React, React Router, Tailwind, NySQL, Vercel, custom ML model.
 
