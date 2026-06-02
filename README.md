@@ -40,7 +40,7 @@
 ---
 
 ### 📊 GitHub Metrics
-![ajlrza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajlrza&show_icons=true&theme=radical)
+[![GitHub Profile Summary](https://img.shields.io/badge/View-Profile_Summary-2ea44f?style=for-the-badge&logo=github)](https://profile-summary-for-github.com/user/ajlrza)
 ---
 
 ### 📫 Connect with Me
