@@ -40,10 +40,7 @@
 ---
 
 ### 📊 GitHub Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajlrza&show_icons=true&theme=vision-dark" alt="GitHub Stats" />
-</p>
-
+![ajlrza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajlrza&show_icons=true&theme=radical)
 ---
 
 ### 📫 Connect with Me
