@@ -24,4 +24,9 @@ for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](
 
 * **Reading theoretical whitepapers & engineering blogs**  
   <br>
-  ![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=white)
+  ![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=white)
+  <br>
+  <br>
+  **Personal Blog:** 
+  <br>
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anjelojannl) 
