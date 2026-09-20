@@ -12,11 +12,11 @@ for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](
 
 ### Technical Focus & Interest
 
-* **ML Systems & Distributed Training** - Hardware Acceleration, High-Performance Computing, Inference Systems  
+* **ML Systems & Distributed Training** **[EXPLORING]** - Hardware Acceleration, High-Performance Computing, Inference Systems  
   <br>
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Triton](https://img.shields.io/badge/Triton-%230096D6.svg?style=for-the-badge&logoColor=white) ![Ray](https://img.shields.io/badge/Ray-%23028CF0.svg?style=for-the-badge&logo=ray&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white). ![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logoColor=white)
 
-* **Distributed Infrastructure** - Microservices, Cloud Architecture, Scalability  
+* **Distributed Infrastructure** **[IMPLEMENTING]** - Microservices, Cloud Architecture, Scalability  
   <br>
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-2368B2?style=for-the-badge&logoColor=white)
 
