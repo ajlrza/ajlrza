@@ -10,15 +10,25 @@ for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](
   <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white). ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-### Technical Focus & Interest
+### Technical Focus
 
-* **ML Systems & Distributed Training** **[EXPLORING]** - Hardware Acceleration, High-Performance Computing, Inference Systems  
-  <br>
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Triton](https://img.shields.io/badge/Triton-%230096D6.svg?style=for-the-badge&logoColor=white) ![Ray](https://img.shields.io/badge/Ray-%23028CF0.svg?style=for-the-badge&logo=ray&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white). ![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logoColor=white)
+### Technical Focus
 
-* **Distributed Infrastructure** **[IMPLEMENTING]** - Microservices, Cloud Architecture, Scalability  
+* **Distributed Systems** **[BUILDING]** - Event-driven architecture, messaging, consistency, fault tolerance
   <br>
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-2368B2?style=for-the-badge&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+* **Backend Architecture** **[BUILDING]** - APIs, services, data flow, system design
+  <br>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+* **Systems Programming** **[EXPLORING]** - Low-level performance, memory, and the algorithms and data structures behind databases
+  <br>
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+* **AI/ML Systems** **[EXPLORING]** - Model internals, inference
+  <br>
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vllm&logoColor=white)
 
 ### Hobbies
 
