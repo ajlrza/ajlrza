@@ -24,7 +24,7 @@ for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](
   <br>
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-* **AI/ML Systems** **[EXPLORING]** - Model internals, inference
+* **AI/ML Systems** **[EXPLORING]** - Model internals, Inference systems, LLMs
   <br>
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vllm&logoColor=white)
 
