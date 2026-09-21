@@ -12,8 +12,6 @@ for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](
 
 ### Technical Focus
 
-### Technical Focus
-
 * **Distributed Systems** **[BUILDING]** - Event-driven architecture, messaging, consistency, fault tolerance
   <br>
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
