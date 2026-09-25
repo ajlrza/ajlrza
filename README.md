@@ -2,12 +2,9 @@
 
 Hi, I'm AJ, currently an undergraduate heavily fascinated by how machines work under the hood and how we can scale them. I am also passionate about
 implementing AI architectures via PyTorch and exploring new AI paradigms. I also enjoy writing software programs that I have a vision for, 
-for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](https://github.com/ajlrza/SYNEURO) both of which are currently under development.
+for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](https://github.com/ajlrza/SYNEURO) both of which are currently under development. I also enjoy independent research where I can write papers, perform experiments, and analyze subjects in: Agentic Systems, Emerging Technologies, Mechanistic Interpretability, and Computer Systems 
 
 ### Languages
-
-* **Core Stack**  
-  <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white).
@@ -40,15 +37,14 @@ for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](
   ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vllm&logoColor=white) 
 
 
+### Hobby
+* **Reading theoretical whitepapers & engineering blogs**
+  <br>
+  ![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)
+  ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=white)
 
+### Personal Blog
+* [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anjelojannl)
 
-### Hobbies
-
-* **Reading theoretical whitepapers & engineering blogs**  
-  <br>
-  ![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=white)
-  <br>
-  <br>
-  **Personal Blog:** 
-  <br>
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anjelojannl) 
+### Personal Website
+* [![Website Status](https://img.shields.io/badge/Website-Online-brightgreen.svg)](https://ajlrza.github.io/)
