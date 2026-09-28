@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm AJ, currently an undergraduate heavily fascinated by how machines work under the hood and how we can scale them. I am also passionate about
+Hi, I'm AJ, currently an undergraduate heavily fascinated by how machines work, how softwares work, and how we can scale the two. I am also passionate about
 implementing AI architectures via PyTorch and exploring new AI paradigms. I also enjoy writing software programs that I have a vision for, 
 for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](https://github.com/ajlrza/SYNEURO) both of which are currently under development. I also enjoy independent research where I can write papers, perform experiments, and analyze subjects in: Agentic Systems, Emerging Technologies, Mechanistic Interpretability, and Computer Systems 
 
