@@ -4,12 +4,14 @@ Hi, I'm AJ, currently an undergraduate heavily fascinated by how machines work a
 implementing AI architectures via PyTorch and exploring new AI paradigms. I also enjoy writing software programs that I have a vision for, 
 for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](https://github.com/ajlrza/SYNEURO) both of which are currently under development. I also enjoy independent research where I can write papers, perform experiments, and analyze subjects in: Agentic Systems, Emerging Technologies, Mechanistic Interpretability, and Computer Systems.
 
-To sum up, I'm primarily driven by the "why" and "how", where I often look for answers theoretically and practically.
+To sum up, I'm primarily driven by the _why_ and _how_, where I often look for answers theoretically and practically.
 
 ### Languages
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white).
+![Python](https://img.shields.io/badge/Python-Intermediate-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![C++](https://img.shields.io/badge/C%2B%2B-Beginner--Intermediate-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Go](https://img.shields.io/badge/Go-Beginner-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Technical Focus
 
