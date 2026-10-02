@@ -2,7 +2,7 @@
 
 Hi, I'm AJ, currently an undergraduate heavily fascinated by how machines work and how softwares work. I am also passionate about
 implementing AI architectures via PyTorch and exploring new AI paradigms. I also enjoy writing software programs that I have a vision for, 
-for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](https://github.com/ajlrza/SYNEURO) both of which are currently under development. I also enjoy independent research where I can write papers, perform experiments, and analyze subjects in: Agentic Systems, Emerging Technologies, Mechanistic Interpretability, and Computer Systems.
+for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](https://github.com/ajlrza/SYNEURO) both of which are currently under development. I also enjoy independent research where I can write papers, perform experiments, and analyze subjects in Mechanistic Intrepretability.
 
 To sum up, I'm primarily driven by the _why_ and _how_, where I often look for answers theoretically and practically.
 
@@ -15,12 +15,7 @@ To sum up, I'm primarily driven by the _why_ and _how_, where I often look for a
 
 ### Technical Focus
 
-* **Distributed Systems** **[BUILDING]** - Event-driven architecture, messaging, consistency, fault tolerance
-  <br>
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
-* **Backend Architecture** **[BUILDING]** - APIs, services, data flow, system design
+* **Backend Architecture** **[BUILDING]** - Microservices, Event-driven
   <br>
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -33,12 +28,9 @@ To sum up, I'm primarily driven by the _why_ and _how_, where I often look for a
 ![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 ![GCC](https://img.shields.io/badge/GCC-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
 
-
-* **AI/ML Systems** **[EXPLORING]** - Model internals, Agentic Infrastructure, Inference Systems
+* **AI/ML Systems** **[EXPLORING]** - Model internals, Neural Networks
   <br>
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vllm&logoColor=white) 
-
 
 ### Hobby
 * **Reading theoretical whitepapers & engineering blogs**
