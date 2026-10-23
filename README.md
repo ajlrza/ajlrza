@@ -35,6 +35,17 @@ To sum up, I'm primarily driven by the _why_ and _how_, where I often look for a
   *Implementing mathematical operations as a software*
 
 ---
+
+---
+
+### Projects
+* **Immersia** [WIP]: Generative-AI visual novel immersive world
+* **Syneuro** [WIP]: Neuro-symbolic affective-computing framework for conversational agents
+* **RailDB** [WIP]: Personal database in C++ inspired by RDBMS
+* **MixtureOfArchitecture** [WIP]: Mixture of experts hands-on implementation
+* **Grayscale-Filter**: OpenCV mini application for grayscale filtering
+* **QMonitor**: Python monitor tool for quantum experiments in AWS and local
+* **QuantumRNG**: Quantum RNG simulation made with Qiskit, with classical RNG
   
 ### Hobby
 * **Reading theoretical whitepapers & engineering blogs**
