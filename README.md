@@ -33,12 +33,12 @@ To sum up, I'm primarily driven by the _why_ and _how_, where I often look for a
 ---
 
 ### Projects
-* **Immersia** [WIP]: Generative-AI visual novel immersive world
-* **Syneuro** [WIP]: Neuro-symbolic affective-computing framework for conversational agents
-* **RailDB** [WIP]: Personal database in C++ inspired by RDBMS
-* **Grayscale-Filter**: OpenCV mini application for grayscale filtering
-* **QMonitor**: Python monitor tool for quantum experiments in AWS and local
-* **QuantumRNG**: Quantum RNG simulation made with Qiskit, with classical RNG
+* [**Immersia**](https://github.com/ajlrza/Immersia) [WIP]: Generative-AI visual novel immersive world
+* [**Syneuro**](https://github.com/ajlrza/Syneuro) [WIP]: Neuro-symbolic affective-computing framework for conversational agents
+* [**RailDB**](https://github.com/ajlrza/RailDB) [WIP]: Personal database in C++ inspired by RDBMS
+* [**Grayscale-Filter**](https://github.com/ajlrza/Grayscale-Filter): OpenCV mini application for grayscale filtering
+* [**QMonitor**](https://github.com/ajlrza/QMonitor): Python monitor tool for quantum experiments in AWS and local
+* [**QuantumRNG**](https://github.com/ajlrza/QuantumRNG): Quantum RNG simulation made with Qiskit, with classical RNG
   
 ### Hobby
 * **Reading theoretical whitepapers & engineering blogs**
