@@ -18,22 +18,17 @@ To sum up, I'm primarily driven by the _why_ and _how_, where I often look for a
 
 ### Technical Focus
 
-* **Backend Architecture**: Microservices, Event-driven
+* **Backend Architecture [Python]**: Microservices, Event-driven
   <br>
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   <br>
   *Turning abstract concepts into implemented code*
 
-* **AI/ML Systems** - Model internals, Neural Networks
+- **Systems & Low-Level Programming** - C++, Operating Systems, Embedded Systems  
   <br>
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-005A9C?style=for-the-badge&logoColor=white)
   <br>
-  *Implementing mathematical operations as a software*
-
----
+  *Talking to the computer and casting binary spells*
 
 ---
 
