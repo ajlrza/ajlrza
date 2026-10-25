@@ -39,6 +39,11 @@ To sum up, I'm primarily driven by the _why_ and _how_, where I often look for a
 * [**Grayscale-Filter**](https://github.com/ajlrza/Grayscale-Filter): OpenCV mini application for grayscale filtering
 * [**QMonitor**](https://github.com/ajlrza/QMonitor): Python monitor tool for quantum experiments in AWS and local
 * [**QuantumRNG**](https://github.com/ajlrza/QuantumRNG): Quantum RNG simulation made with Qiskit, with classical RNG
+
+### Papers
+* [**First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers**](https://arxiv.org/abs/2606.22361)
+* [**FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models**](https://arxiv.org/abs/2609.30954)
+* [**A Mini Blog in Neuromophic Computing Security**](https://zenodo.org/records/23446329)
   
 ### Hobby
 * **Reading theoretical whitepapers & engineering blogs**
