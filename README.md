@@ -32,18 +32,36 @@ To sum up, I'm primarily driven by the _why_ and _how_, where I often look for a
 
 ---
 
-### Projects
+### General Projects
 * [**Immersia**](https://github.com/ajlrza/Immersia) [WIP]: Generative-AI visual novel immersive world
 * [**Syneuro**](https://github.com/ajlrza/Syneuro) [WIP]: Neuro-symbolic affective-computing framework for conversational agents
 * [**RailDB**](https://github.com/ajlrza/RailDB) [WIP]: Personal database in C++ inspired by RDBMS
 * [**Grayscale-Filter**](https://github.com/ajlrza/Grayscale-Filter): OpenCV mini application for grayscale filtering
 * [**QMonitor**](https://github.com/ajlrza/QMonitor): Python monitor tool for quantum experiments in AWS and local
 * [**QuantumRNG**](https://github.com/ajlrza/QuantumRNG): Quantum RNG simulation made with Qiskit, with classical RNG
+* [**Waitlister API**](https://github.com/ajlrza/Waitlister-API) lightweight TypeScript API for product waitlist signups and referrals
+* [**reinforcement-learning-exercise**](https://github.com/ajlrza/reinforcement-learning-exercise): A RL-inspired python script
+
+### Mini ML Projects
+* [**ZombieApoc-SupplyRun-Classifier**](https://github.com/ajlrza/ZombieApoc-SupplyRun-Classifier): A mini XGB classifier model trained to classify indicators of zombie status before sending out supplies
+* [**agriculture-prediction-model**](https://github.com/ajlrza/agriculture-prediction-model): A precision agriculture script that identifies the most predictive soil nutrient for crop 
+* [**anime-ratings-prediction-modelr**](https://github.com/ajlrza/anime-ratings-prediction-model): A machine learning pipeline using CatBoost Regression to predict anime ratings
+
+### Mini DL Project
+* [**ZombieApoc-SupplyRun-Classifier**](https://github.com/ajlrza/feedforward-neural-network): A Feedforward Neural Network from Scratch w/ PyTorch
+
+### Systems Design Mini-proposal
+* [**ParamFinder**](https://github.com/ajlrza/ParamFinder) A System Architecture Design Proposal: Cloud-Agnostic Orchestration Layer for Asynchronous Hyperparameter Optimization
 
 ### Papers
 * [**First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers**](https://arxiv.org/abs/2606.22361)
 * [**FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models**](https://arxiv.org/abs/2609.30954)
 * [**A Mini Blog in Neuromophic Computing Security**](https://zenodo.org/records/23446329)
+
+### Contribution
+* [**BIP324-MITM**](https://github.com/RazorBest/bip324-mitm/pull/22)
+* [**Room-TBA**](https://github.com/uplbtools/room-tba/pull/488)
+* [**jetspace-imitation-learning**](https://github.com/LeeMarshall1113/jetspace-imitation-learning/pull/11)
   
 ### Hobby
 * **Reading theoretical whitepapers & engineering blogs**
