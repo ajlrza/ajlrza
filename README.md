@@ -22,13 +22,11 @@ To sum up, I'm primarily driven by the _why_ and _how_, where I often look for a
   <br>
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   <br>
-  *Turning abstract concepts into implemented code*
 
-- **Systems & Low-Level Programming** - C++, Operating Systems, Embedded Systems  
+- **Systems & Low-Level Programming** - C++, Operating Systems 
   <br>
   ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-005A9C?style=for-the-badge&logoColor=white)
   <br>
-  *Talking to the computer and casting binary spells*
 
 ---
 
