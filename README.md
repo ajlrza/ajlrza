@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm AJ, an aspiring **AI Research Engineer** and currently an undergraduate heavily. enjoy writing software programs that I have a vision for, 
+Hi, I'm AJ, an aspiring **AI Research Engineer** in Embodied AI & World Models. enjoy writing software programs that I have a vision for, 
 for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](https://github.com/ajlrza/SYNEURO) both of which are currently under development. I also enjoy independent research where I can write papers, perform experiments, and analyze subjects in AI: Machine Consciousness & Deep Learning.
 
 To sum up, I'm primarily driven by the _why_ and _how_, where I often look for answers theoretically and practically.
