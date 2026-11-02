@@ -5,6 +5,13 @@ for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](
 
 To sum up, I'm primarily driven by the _why_ and _how_, where I often look for answers theoretically and practically.
 
+What I dabbled with:
+<br>
+**databases and storage** (RailDB), **distributed systems** (ParamFinder), **classical ML on tabular data **(CatBoost, XGBoost, and agriculture scripts), **quantum computing** (QMonitor, QuantumRNG), and **computer vision** (the grayscale filter).
+
+What I worked on the most: <br> 
+**LLM cognitive layer** (Syneuro), **Generative AI application for interactive worlds** (Immersia), **Databases** (RailDB), **Mechanistic Interpretability** 
+
 ---
 
 ### Languages
