@@ -12,7 +12,7 @@ What I dabbled with:
 What I worked on the most: <br> 
 **LLM cognitive layer** (Syneuro), **Generative AI application for interactive worlds** (Immersia), **Databases** (RailDB), **Mechanistic Interpretability** 
 
-Keep in mind, I only have an average IQ but I'm more than passionate and curious about the world
+Most of my works are just interests in different fields but I primarily engage with LLM and Deep Learning
 
 ---
 
