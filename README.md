@@ -35,6 +35,7 @@ Most of my works are just interests in different fields but I primarily engage w
 • [**Immersia**](https://github.com/ajlrza/Immersia) [WIP]: Generative-AI visual novel immersive world.
 <br>
 • [**Syneuro**](https://github.com/ajlrza/Syneuro) [WIP]: Neuro-symbolic affective-computing framework for conversational agents.
+<br>
 • [**MemoryGate**](https://github.com/ajlrza/MemoryGate) [WIP]: A lightweight memory layer for roleplay chat agents.
 
 ```⚡ Systems Design & Infrastructure```
@@ -46,6 +47,7 @@ Most of my works are just interests in different fields but I primarily engage w
 • [**QMonitor**](https://github.com/ajlrza/QMonitor): Python monitor tool for quantum experiments in AWS and local environments.
 <br>
 • [**QuantumRNG**](https://github.com/ajlrza/QuantumRNG): Quantum random number generator simulation built with Qiskit.
+<br>
 • [**AetherRouter**](https://github.com/ajlrza/AetherRouter): Async, multi-provider LLM routing and fallback engine
 
 
