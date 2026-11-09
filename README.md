@@ -4,7 +4,9 @@ Hi, I'm AJ, an aspiring **AI Research Engineer** in Vision-Language Action. I en
 
 To sum up, I'm primarily driven by the _why_ and _how_, where I often look for answers theoretically and practically.
 
-Core Field: **LLM, MLLM, NLP**
+Core Field: **Applied LLM & MLLM**
+<br>
+Auxilliary Field: **NLP Research: Mechanistic Intrepretabilty**
 <br>
 Field Target: **VLA, Embodied AI**
 
