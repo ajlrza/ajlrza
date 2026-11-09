@@ -8,7 +8,7 @@ Core Field: **Applied LLM & MLLM**
 <br>
 Auxilliary Field: **NLP Research: Mechanistic Intrepretabilty**
 <br>
-Field Target: **VLA, Embodied AI**
+Target Field: **VLA, Embodied AI**
 
 ---
 
