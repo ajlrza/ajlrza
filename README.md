@@ -1,7 +1,6 @@
 ## About Me
 
-Hi, I'm AJ, an aspiring **AI Research Engineer** in Embodied AI & World Models. enjoy writing software programs that I have a vision for, 
-for example: [**Immersia**](https://github.com/ajlrza/Immersia) & [**Syneuro**](https://github.com/ajlrza/SYNEURO) both of which are currently under development. I also enjoy independent research where I can write papers, perform experiments, and analyze subjects in AI: Machine Consciousness & Deep Learning.
+Hi, I'm AJ, an aspiring **AI Research Engineer** in Embodied AI & World Models. enjoy writing software programs that I have a vision for, I also enjoy independent research where I can write papers, perform experiments, and analyze subjects in AI: Machine Consciousness & Deep Learning.
 
 To sum up, I'm primarily driven by the _why_ and _how_, where I often look for answers theoretically and practically.
 
@@ -36,6 +35,7 @@ Most of my works are just interests in different fields but I primarily engage w
 • [**Immersia**](https://github.com/ajlrza/Immersia) [WIP]: Generative-AI visual novel immersive world.
 <br>
 • [**Syneuro**](https://github.com/ajlrza/Syneuro) [WIP]: Neuro-symbolic affective-computing framework for conversational agents.
+• [**MemoryGate**](https://github.com/ajlrza/MemoryGate) [WIP]: A lightweight memory layer for roleplay chat agents.
 
 ```⚡ Systems Design & Infrastructure```
 
@@ -46,6 +46,7 @@ Most of my works are just interests in different fields but I primarily engage w
 • [**QMonitor**](https://github.com/ajlrza/QMonitor): Python monitor tool for quantum experiments in AWS and local environments.
 <br>
 • [**QuantumRNG**](https://github.com/ajlrza/QuantumRNG): Quantum random number generator simulation built with Qiskit.
+• [**AetherRouter**](https://github.com/ajlrza/AetherRouter): Async, multi-provider LLM routing and fallback engine
 
 
 ```🌐 Applications & Web APIs```
