@@ -1,17 +1,12 @@
 ## About Me
 
-Hi, I'm AJ, an aspiring **AI Research Engineer** in Embodied AI & World Models. enjoy writing software programs that I have a vision for, I also enjoy independent research where I can write papers, perform experiments, and analyze subjects in AI: Machine Consciousness & Deep Learning.
+Hi, I'm AJ, an aspiring **AI Research Engineer** in Vision-Language Action. I enjoy writing software programs that I have a vision for, I also enjoy independent research where I can write papers, perform experiments, and analyze subjects in AI: Machine Consciousness & Deep Learning.
 
 To sum up, I'm primarily driven by the _why_ and _how_, where I often look for answers theoretically and practically.
 
-What I dabbled with:
+Core Field: **LLM, MLLM, NLP**
 <br>
-**databases and storage** (RailDB), **hypothetical distributed systems** (ParamFinder), **classical ML on tabular data** (CatBoost, XGBoost, and agriculture scripts), **quantum computing** (QMonitor, QuantumRNG), and **computer vision** (the grayscale filter).
-
-What I worked on the most: <br> 
-**LLM cognitive layer** (Syneuro), **Generative AI application for interactive worlds** (Immersia), **Databases** (RailDB), **Mechanistic Interpretability** 
-
-Most of my works are just interests in different fields but I primarily engage with LLM and Deep Learning
+Field Target: **VLA, Embodied AI**
 
 ---
 
