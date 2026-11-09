@@ -19,6 +19,7 @@ Target Field: **VLA, Embodied AI**
 
 ---
 
+NOTE: Most of my projects are under WIP, bugs are prevelant since I tend to write my ideas more than slow coding.
 
 ```🔬 AI Research & Experimentation```
 
