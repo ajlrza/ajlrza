@@ -1,14 +1,12 @@
 ## About Me
 
-Hi, I'm AJ, an aspiring **AI Research Engineer** in Vision-Language Action. I enjoy writing software programs that I have a vision for, I also enjoy independent research where I can write papers, perform experiments, and analyze subjects in AI: Machine Consciousness & Deep Learning.
+Hi, I'm AJ, an aspiring **AI Research Engineer**, I enjoy writing software that I have a vision for. I also like reading academic subjects.
 
-To sum up, I'm primarily driven by the _why_ and _how_, where I often look for answers theoretically and practically.
-
-Core Field: **Applied LLM & MLLM**
+Core Field: ``Applied LLM & MLLM``
 <br>
-Auxilliary Field: **NLP Research: Mechanistic Intrepretabilty**
+Auxilliary Field: ``NLP Research: Mechanistic Intrepretabilty``
 <br>
-Target Field: **Embodied AI**
+Target Field: ``Embodied AI``
 
 ---
 
@@ -19,72 +17,45 @@ Target Field: **Embodied AI**
 
 ---
 
-NOTE: Projects with WIP tag has errors since I tend to write my ideas more than slow coding.
-
-```🔬 AI Research & Experimentation```
-
+### **🔬 LLM Research**
+> Co-authored two papers, contributing to the paper structure, narration, and conceptual and theoretical frameworks.
 
 • [**First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers**](https://arxiv.org/abs/2606.22361): Paper on the mechanistic origins of language identity and distributed robustness in Transformers.
 <br>
 • [**FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models**](https://arxiv.org/abs/2609.30954): Paper on determining and validating first-token broadcasters and language-identity head circuits in multilingual LLMs.
 
-```🌌 Immersive Worlds & Conversational Agents```
+---
 
-• [**Immersia**](https://github.com/ajlrza/Immersia) [WIP]: Generative-AI visual novel immersive world.
+### **🤖 Applied LLM & MLLM Projects**
+> Working with post-trained LLM APIs and building softwares around them.
+
+• [**Immersia**](https://github.com/ajlrza/Immersia) <kbd>WIP</kbd>: Generative-AI visual novel immersive world
 <br>
-• [**Syneuro**](https://github.com/ajlrza/Syneuro) [WIP]: Neuro-symbolic affective-computing framework for conversational agents.
+• [**Syneuro**](https://github.com/ajlrza/Syneuro) <kbd>WIP</kbd>: Neuro-symbolic affective-computing framework for conversational agents
 <br>
-• [**MemoryGate**](https://github.com/ajlrza/MemoryGate) [WIP]: A lightweight memory layer for roleplay chat agents.
-
-```⚡ Systems & Infrastructure```
-
-• [**ParamFinder**](https://github.com/ajlrza/ParamFinder): A system architecture proposal for a cloud-agnostic orchestration layer for asynchronous hyperparameter optimization.
+• [**MemoryGate**](https://github.com/ajlrza/MemoryGate) <kbd>WIP</kbd>: A lightweight memory layer for roleplay chat agents
 <br>
-• [**RailDB**](https://github.com/ajlrza/RailDB) [WIP]: A personal database built in C++, inspired by RDBMS architecture.
+• [**AetherRouter**](https://github.com/ajlrza/AetherRouter) <kbd>WIP</kbd>: Async, multi-provider LLM routing and fallback engine
 <br>
-• [**AetherRouter**](https://github.com/ajlrza/AetherRouter) [WIP]: Async, multi-provider LLM routing and fallback engine
+• [**QSenti**](https://github.com/ajlrza/QSenti) <kbd>WIP</kbd>: Lightweight sentiment classifier for LLM sessions powered by VADER & Quantum-inspired Math
 
-```Quantum Computing```
+---
 
-• [**QMonitor**](https://github.com/ajlrza/QMonitor): Python monitor tool for quantum experiments in AWS and local environments.
-<br>
-• [**QSenti**](https://github.com/ajlrza/QSenti) [WIP]: Lightweight sentiment classifier for LLM sessions powered by VADER & Quantum-inspired Math
-<br>
-• [**QuantumRNG**](https://github.com/ajlrza/QuantumRNG): Quantum random number generator simulation built with Qiskit.
+### **🤖 Deep Learning Project**
+> Working with PyTorch ecosystem and neural network architectures.
 
+• [**feedforward-neural-network**](https://github.com/ajlrza/feedforward-neural-network) <kbd>WIP</kbd>: A Feedforward Neural Network from scratch using PyTorch
 
+---
 
-```🌐 Applications & Web APIs```
+```🤝 Open-Source & Community Contribution```
+> Worked with an experiment codebase for imitation learning, contributed to the infrastructure side.
 
-• [**Waitlister API**](https://github.com/ajlrza/Waitlister-API): A lightweight TypeScript API for product waitlist signups and referrals.
-<br>
-• [**Grayscale-Filter**](https://github.com/ajlrza/Grayscale-Filter): A mini application built with OpenCV for grayscale filtering.
+• jetspace-imitation-learning: 
+  1. [Dataset Loading Optimization](https://github.com/LeeMarshall1113/jetspace-imitation-learning/pull/9) - Optimized dataset loading by implementing options-based selective NPZ decompression and adding fail-first guard clauses to skip invalid episodes early.
+  2. [Data Pipeline Refactor](https://github.com/LeeMarshall1113/jetspace-imitation-learning/pull/11) - Refactored data pipeline architecture by decoupling Episode into a standalone dataclass, upgrading EpisodeBuffer storage mechanics, and updating the demo collection script for compatibility.
 
-```🤖 Applied Machine Learning & Deep Learning (Mini Projects)```
-
-• [**feedforward-neural-network**](https://github.com/ajlrza/feedforward-neural-network): A Feedforward Neural Network built from scratch using PyTorch.
-<br>
-• [**ZombieApoc-SupplyRun-Classifier**](https://github.com/ajlrza/ZombieApoc-SupplyRun-Classifier): A mini XGBoost classifier model trained for status screening.
-<br>
-• [**agriculture-prediction-model**](https://github.com/ajlrza/agriculture-prediction-model): A precision agriculture script identifying predictive soil nutrients.
-<br>
-• [**anime-ratings-prediction-model**](https://github.com/ajlrza/anime-ratings-prediction-model): A ML pipeline leveraging CatBoost Regression to predict ratings.
-<br>
-• [**reinforcement-learning-exercise**](https://github.com/ajlrza/reinforcement-learning-exercise): A foundational RL-inspired Python script.
-
-```🤝 Open-Source & Community Contributions```
-
-• [**BIP324-MITM**](https://github.com/RazorBest/bip324-mitm/pull/22): Security contribution exploring Bitcoin's P2P encrypted transport protocol man-in-the-middle vectors.
-<br>
-• [**jetspace-imitation-learning**]: 
-  - https://github.com/LeeMarshall1113/jetspace-imitation-learning/pull/9 - Optimized dataset loading by implementing options-based selective NPZ decompression and adding fail-first guard clauses to skip invalid episodes early.
-  - https://github.com/LeeMarshall1113/jetspace-imitation-learning/pull/11 - Refactored data pipeline architecture by decoupling Episode into a standalone dataclass, upgrading EpisodeBuffer storage mechanics, and updating the demo collection script for compatibility.
-
-• [**Room-TBA**](https://github.com/uplbtools/room-tba/pull/488): Contributed a defensive data-fetching and caching strategy to the Progressive Web App (PWA).
-
-```📝 Technical Writing```
-
-• [**A Mini Blog in Neuromophic Computing Security**](https://zenodo.org/records/23446329): Explanations and insights exploring neuromorphic computing architectures.
+---
   
 ### Hobby
 * **Reading theoretical whitepapers & engineering blogs**
