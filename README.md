@@ -18,7 +18,7 @@ Target Field: ``Embodied AI``
 ---
 
 ### **🔬 LLM Research**
-> Co-authored two papers, contributing to the paper structure, narration, and conceptual and theoretical frameworks.
+> Co-authored two papers, contributed to the paper structure, research questions, and related studies.
 
 • [**First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers**](https://arxiv.org/abs/2606.22361): Paper on the mechanistic origins of language identity and distributed robustness in Transformers.
 <br>
