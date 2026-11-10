@@ -48,7 +48,7 @@ NOTE: Projects with WIP tag has errors since I tend to write my ideas more than 
 
 • [**QMonitor**](https://github.com/ajlrza/QMonitor): Python monitor tool for quantum experiments in AWS and local environments.
 <br>
-• [**QSenti**](https://github.com/ajlrza/QuantumRNG) [WIP]: Lightweight sentiment classifier for LLM sessions powered by VADER & Quantum-inspired Math
+• [**QSenti**](https://github.com/ajlrza/QSenti) [WIP]: Lightweight sentiment classifier for LLM sessions powered by VADER & Quantum-inspired Math
 <br>
 • [**QuantumRNG**](https://github.com/ajlrza/QuantumRNG): Quantum random number generator simulation built with Qiskit.
 
