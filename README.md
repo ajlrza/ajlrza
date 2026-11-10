@@ -45,12 +45,13 @@ NOTE: Projects with WIP tag has errors since I tend to write my ideas more than 
 • [**AetherRouter**](https://github.com/ajlrza/AetherRouter) [WIP]: Async, multi-provider LLM routing and fallback engine
 
 ```Quantum Computing```
+
 • [**QMonitor**](https://github.com/ajlrza/QMonitor): Python monitor tool for quantum experiments in AWS and local environments.
 <br>
 • [**QSenti**](https://github.com/ajlrza/QuantumRNG) [WIP]: Lightweight sentiment classifier for LLM sessions powered by VADER & Quantum-inspired Math
 <br>
 • [**QuantumRNG**](https://github.com/ajlrza/QuantumRNG): Quantum random number generator simulation built with Qiskit.
-<br>
+
 
 
 ```🌐 Applications & Web APIs```
