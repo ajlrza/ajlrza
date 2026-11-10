@@ -6,7 +6,7 @@ Other parts of the portfolio are listed here, which were short-term interests I 
 
 • [**ParamFinder**](https://github.com/ajlrza/ParamFinder): A system architecture proposal for a cloud-agnostic orchestration layer for asynchronous hyperparameter optimization.
 <br>
-• [**RailDB**](https://github.com/ajlrza/RailDB) [WIP]: A personal database built in C++, inspired by RDBMS architecture.
+• [**RailDB**](https://github.com/ajlrza/RailDB) <kbd>WIP</kbd>: A personal database built in C++, inspired by RDBMS architecture.
 <br>
 
 ```Quantum Computing```
