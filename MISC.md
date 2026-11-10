@@ -1,6 +1,6 @@
 ## Miscellenous Information
 
-Other projects of mine are listed here, which were short-term interests I took on.
+Other parts of the portfolio are listed here, which were short-term interests I took on.
 
 ```⚡ Systems & Infrastructure```
 
@@ -21,10 +21,8 @@ Other projects of mine are listed here, which were short-term interests I took o
 <br>
 • [**Grayscale-Filter**](https://github.com/ajlrza/Grayscale-Filter): A mini application built with OpenCV for grayscale filtering.
 
-```🤖 Applied Machine Learning & Deep Learning (Mini Projects)```
+```🤖  Machine Learning Mini Exercises```
 
-• [**feedforward-neural-network**](https://github.com/ajlrza/feedforward-neural-network): A Feedforward Neural Network built from scratch using PyTorch.
-<br>
 • [**ZombieApoc-SupplyRun-Classifier**](https://github.com/ajlrza/ZombieApoc-SupplyRun-Classifier): A mini XGBoost classifier model trained for status screening.
 <br>
 • [**agriculture-prediction-model**](https://github.com/ajlrza/agriculture-prediction-model): A precision agriculture script identifying predictive soil nutrients.
