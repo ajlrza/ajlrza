@@ -6,7 +6,7 @@ Core Field: ``Engineering: Applied LLM & MLLM``
 <br>
 Auxilliary Field: ``NLP Research: Mechanistic Intrepretabilty``
 <br>
-Target Field: ``R&D: Embodied AI Reasoning``
+Target Field: ``R&D: Embodied AI Reasoning (memory & orchestration)``
 
 ---
 
