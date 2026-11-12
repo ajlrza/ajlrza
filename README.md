@@ -31,20 +31,9 @@ Target Field: ``R&D: Embodied AI Reasoning (systems & architecture)``
 
 • [**Immersia**](https://github.com/ajlrza/Immersia) <kbd>WIP</kbd>: Generative-AI visual novel immersive world
 <br>
-• [**Syneuro**](https://github.com/ajlrza/Syneuro) <kbd>WIP</kbd>: Neuro-symbolic affective-computing framework for conversational agents
-<br>
 • [**MemoryGate**](https://github.com/ajlrza/MemoryGate) <kbd>WIP</kbd>: A lightweight memory layer for roleplay chat agents
 <br>
 • [**AetherRouter**](https://github.com/ajlrza/AetherRouter) <kbd>WIP</kbd>: Async, multi-provider LLM routing and fallback engine
-<br>
-• [**QSenti**](https://github.com/ajlrza/QSenti) <kbd>WIP</kbd>: Lightweight sentiment classifier for LLM sessions powered by VADER & Quantum-inspired Math
-
----
-
-### **🤖 Deep Learning Project**
-> Working with PyTorch ecosystem and neural network architectures.
-
-• [**feedforward-neural-network**](https://github.com/ajlrza/feedforward-neural-network) <kbd>WIP</kbd>: A Feedforward Neural Network from scratch using PyTorch
 
 ---
 
