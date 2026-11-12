@@ -2,11 +2,11 @@
 
 Hi, I'm AJ, an aspiring **AI Research Engineer**, I enjoy writing software that I have a vision for. I also like reading academic subjects.
 
-Core Field: ``Engineering: Applied LLM & MLLM``
+Core Field: ``Engineering: Applied LLM & MLLM Systems``
 <br>
 Auxilliary Field: ``NLP Research: Mechanistic Intrepretabilty``
 <br>
-Target Field: ``R&D: Embodied AI Reasoning (memory & orchestration)``
+Target Field: ``R&D: Embodied AI Reasoning (systems & performance)``
 
 ---
 
