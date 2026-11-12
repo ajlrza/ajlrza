@@ -16,16 +16,7 @@ Auxilliary Field: ``NLP Research: Mechanistic Intrepretabilty``
 
 ---
 
-### **🔬 LLM Research**
-> Co-authored two papers, contributed to the paper structure, research questions, and related studies.
-
-• [**First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers**](https://arxiv.org/abs/2606.22361): Paper on the mechanistic origins of language identity and distributed robustness in Transformers.
-<br>
-• [**FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models**](https://arxiv.org/abs/2609.30954): Paper on determining and validating first-token broadcasters and language-identity head circuits in multilingual LLMs.
-
----
-
-### **🤖 Applied LLM & MLLM Projects**
+### **🤖 Applied LLM & MLLM Projects** [Core]
 > Working with post-trained LLM APIs and building softwares around them.
 
 • [**Immersia**](https://github.com/ajlrza/Immersia) <kbd>WIP</kbd>: Generative-AI visual novel immersive world
@@ -36,7 +27,16 @@ Auxilliary Field: ``NLP Research: Mechanistic Intrepretabilty``
 
 ---
 
-```🤝 Open-Source & Community Contribution```
+### **🔬 LLM Research** [Auxilliary]
+> Co-authored two papers, contributed to the paper structure, research questions, and related studies.
+
+• [**First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers**](https://arxiv.org/abs/2606.22361): Paper on the mechanistic origins of language identity and distributed robustness in Transformers.
+<br>
+• [**FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models**](https://arxiv.org/abs/2609.30954): Paper on determining and validating first-token broadcasters and language-identity head circuits in multilingual LLMs.
+
+---
+
+### **🤝 Open-Source & Community Contribution** [Auxilliary]
 > Worked with an experiment codebase for imitation learning, contributed to the infrastructure side.
 
 • jetspace-imitation-learning: 
