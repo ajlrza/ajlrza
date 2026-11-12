@@ -2,6 +2,13 @@
 
 Other parts of the portfolio are listed here, which were short-term interests I took on.
 
+```💬 NLP```
+• [**QSenti**](https://github.com/ajlrza/QSenti) <kbd>WIP</kbd>: Lightweight sentiment classifier for LLM sessions powered by VADER & Quantum-inspired Math
+• [**Syneuro**](https://github.com/ajlrza/Syneuro) <kbd>WIP</kbd>: Neuro-symbolic affective-computing framework for conversational agents
+
+```🤖 Deep Learning Project```
+• [**feedforward-neural-network**](https://github.com/ajlrza/feedforward-neural-network) <kbd>WIP</kbd>: A Feedforward Neural Network from scratch using PyTorch
+
 ```⚡ Systems & Infrastructure```
 
 • [**ParamFinder**](https://github.com/ajlrza/ParamFinder): A system architecture proposal for a cloud-agnostic orchestration layer for asynchronous hyperparameter optimization.
