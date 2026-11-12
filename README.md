@@ -32,7 +32,7 @@ Auxilliary Field: ``NLP Research: Mechanistic Intrepretabilty``
 ### **🔬 LLM Research** [Auxilliary]
 > Co-authored two papers, contributed to the paper structure, research questions, and related studies.
 
-> Conceptual/Theoretical Co-author, with experience in synthesizing literature
+> Conceptual co-author, with experience in synthesizing literature into a coherent research.
 
 • [**First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers**](https://arxiv.org/abs/2606.22361): Paper on the mechanistic origins of language identity and distributed robustness in Transformers.
 <br>
