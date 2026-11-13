@@ -27,7 +27,7 @@ Other parts of the portfolio are listed here, which were short-term interests I 
 
 ```🌐 Applications & Web APIs```
 
-• [**Waitlister API**](https://github.com/ajlrza/Waitlister-API): Two template APIs stripped off from my previous projects.
+• [**API Templates**](https://github.com/ajlrza/Waitlister-API): Two template APIs stripped off from my previous projects.
 <br>
 • [**Grayscale-Filter**](https://github.com/ajlrza/Grayscale-Filter): A mini application built with OpenCV for grayscale filtering.
 
