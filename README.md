@@ -21,8 +21,6 @@ Auxilliary Field: ``NLP Research: Mechanistic Intrepretabilty``
 
 > Systematic and architectural vision, understands both micro and macro-level.
 
-• [**Immersia**](https://github.com/ajlrza/Immersia) <kbd>WIP</kbd>: Generative-AI visual novel immersive world
-<br>
 • [**MemoryGate**](https://github.com/ajlrza/MemoryGate) <kbd>WIP</kbd>: A lightweight memory layer for roleplay chat agents
 <br>
 • [**AetherRouter**](https://github.com/ajlrza/AetherRouter) <kbd>WIP</kbd>: Async, multi-provider LLM routing and fallback engine
