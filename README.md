@@ -3,6 +3,8 @@
 Hi, I'm AJ, an aspiring **AI Research Engineer**, I generally enjoy mechanisms in any concepts and how I got into computers. So I decided, let's go explore
 the mechanisms in computes, but also build new things with the learned mechanisms
 
+I use Python for AI, while I use C++ for memory management, I/O tasks, and avoid performance overheads
+
 ---
 
 ### Languages
