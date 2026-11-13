@@ -22,6 +22,16 @@ I use Python for AI, while I use C++ for lower level applications
 • [**MemoryGate**](https://github.com/ajlrza/MemoryGate) <kbd>WIP</kbd>: A lightweight memory layer for roleplay chat agents
 <br>
 • [**AetherRouter**](https://github.com/ajlrza/AetherRouter) <kbd>WIP</kbd>: Async, multi-provider LLM routing and fallback engine
+* [**Syneuro**](https://github.com/ajlrza/Syneuro) <kbd>WIP</kbd>: A lightweight Quantum-inspired Emotion Layer for AI Chatbots
+
+---
+
+### **⚙️ C++ & System Project** [Core]
+> Building systems from first principles in C++: database engines today, deep learning and ML systems next.
+
+> Interested in what runs underneath: memory, storage, concurrency, and the compute that powers models.
+
+- [**KojinDB**](https://github.com/ajlrza/KojinDB) <kbd>WIP</kbd>: A lightweight personal database engine (個人, *kojin* = "personal") inspired by PostgreSQL. 
 
 ---
 
