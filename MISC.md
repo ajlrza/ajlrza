@@ -6,7 +6,6 @@ Other parts of the portfolio are listed here, which were short-term interests I 
 
 • [**QSenti**](https://github.com/ajlrza/QSenti) <kbd>WIP</kbd>: Lightweight sentiment classifier for LLM sessions powered by VADER & Quantum-inspired Math
 <br>
-• [**Syneuro**](https://github.com/ajlrza/Syneuro) <kbd>WIP</kbd>: Neuro-symbolic affective-computing framework for conversational agents
 
 ```🤖 Deep Learning Project```
 
@@ -16,8 +15,7 @@ Other parts of the portfolio are listed here, which were short-term interests I 
 
 • [**ParamFinder**](https://github.com/ajlrza/ParamFinder): A system architecture proposal for a cloud-agnostic orchestration layer for asynchronous hyperparameter optimization.
 <br>
-• [**RailDB**](https://github.com/ajlrza/RailDB) <kbd>WIP</kbd>: A personal database built in C++, inspired by RDBMS architecture.
-<br>
+• [**SYNAPSE**](https://github.com/ajlrza/SYNAPSE) <kbd>WIP</kbd>: A systems architecture proposal for a dual-cache, quantum-inspired memory architecture for AI agents.
 
 ```Quantum Computing```
 
