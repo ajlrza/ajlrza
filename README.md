@@ -9,14 +9,11 @@ the mechanisms in computers, but also build new things with the learned mechanis
 
 | Domain | Track | Proficiency Level |
 | :--- | :--- | :--- |
-| **Large Language Models** | Theory | `Proficient` |
-| | Engineering | `Systems: Proficient` • `Training: Beginner` |
 | **Machine Learning & Deep Learning** | Theory | `Proficient` |
-| | Applied | `Science: Intermediate` |
+| | Applied | `Science: Intermediate` • `Systems: Beginner` |
 | **C++ & Computer Architecture** | Theory | `Beginner-Intermediate` |
 | | Engineering | `Software Eng: Beginner-Intermediate` • `Inference Eng: Beginner` |
 
-  
 ---
 
 ### Languages
