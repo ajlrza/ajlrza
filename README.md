@@ -1,9 +1,9 @@
 ## About Me
 
-Hi, I'm AJ, an aspiring **Research Engineer**, I generally enjoy mechanisms in any concepts and how I got into computers. So I decided, let's go explore
-the mechanisms in computes, but also build new things with the learned mechanisms
+Hi, I'm AJ, an aspiring **Research Engineer** in scaling Embodied AI training via low-level computations. I generally enjoy mechanisms in any concepts and got into computers. So I decided, let's go explore
+the mechanisms in computers, but also build new things with the learned mechanisms, but I learned computers can think so let's do a cross-over
 
-I use Python for AI, while I use C++ for lower level applications
+> Currently transitioning to deep learning systems from applied AI engineering
 
 ### 🛠️ Field Expertise
 
