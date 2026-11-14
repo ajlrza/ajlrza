@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm AJ, an aspiring **AI Research Engineer**, I generally enjoy mechanisms in any concepts and how I got into computers. So I decided, let's go explore
+Hi, I'm AJ, an aspiring **Research Engineer**, I generally enjoy mechanisms in any concepts and how I got into computers. So I decided, let's go explore
 the mechanisms in computes, but also build new things with the learned mechanisms
 
 I use Python for AI, while I use C++ for lower level applications
@@ -14,7 +14,7 @@ I use Python for AI, while I use C++ for lower level applications
 
 ---
 
-### **🤖 Applied LLM & MLLM Projects** [Core]
+### **🤖 Applied LLM & MLLM Projects** 
 > Working with post-trained LLM APIs and building softwares around them.
 
 > Systematic and architectural vision, understands both micro and macro-level.
