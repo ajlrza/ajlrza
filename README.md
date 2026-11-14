@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm AJ, an aspiring **Research Engineer** in scaling Embodied AI via C++ / CUDA. I generally enjoy mechanisms in any concepts and got into computers. So I decided, let's go explore
+Hi, I'm AJ, an aspiring **ML Systems Engineer/Research Engineer**. I generally enjoy mechanisms in any concepts and got into computers. So I decided, let's go explore
 the mechanisms in computers, but also build new things with the learned mechanisms, but I learned computers can think so let's do a cross-over
 
 > Currently transitioning to deep learning systems from applied AI engineering
