@@ -23,7 +23,7 @@ I use Python for AI, while I use C++ for lower level applications
 <br>
 • [**AetherRouter**](https://github.com/ajlrza/AetherRouter) <kbd>WIP</kbd>: Async, multi-provider LLM routing and fallback engine
 <br>
-* [**Syneuro**](https://github.com/ajlrza/Syneuro) <kbd>WIP</kbd>: A lightweight Quantum-inspired Emotion Layer for AI Chatbots
+•  [**Syneuro**](https://github.com/ajlrza/Syneuro) <kbd>WIP</kbd>: A lightweight Quantum-inspired Emotion Layer for AI Chatbots
 
 ---
 
@@ -32,7 +32,7 @@ I use Python for AI, while I use C++ for lower level applications
 
 > Interested in what runs underneath: memory, storage, concurrency, and the compute that powers models.
 
-- [**KojinDB**](https://github.com/ajlrza/KojinDB) <kbd>WIP</kbd>: A lightweight personal database engine (個人, *kojin* = "personal") inspired by PostgreSQL. 
+• [**KojinDB**](https://github.com/ajlrza/KojinDB) <kbd>WIP</kbd>: A lightweight personal database engine (個人, *kojin* = "personal") inspired by PostgreSQL. 
 
 ---
 
