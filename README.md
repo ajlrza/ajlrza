@@ -13,7 +13,7 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
   * AI Companion Emotion
   * AI Session Emotion Classifier
 * **C++ Software Development**
-  * Basic Database Engine
+  * Lighweight Tag-Based Text Files Database
  
 > Project links are below
 
