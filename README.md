@@ -1,18 +1,23 @@
 ## About Me
 
-Hi, I'm AJ, an aspiring **ML Systems Engineer/Research Engineer**. I generally enjoy mechanisms in any concepts and got into computers. So I decided, let's go explore
+Hi, I'm AJ, an aspiring **Research Engineer**. I generally enjoy mechanisms in any concepts and got into computers. So I decided, let's go explore
 the mechanisms in computers, but also build new things with the learned mechanisms, but I learned computers can think so let's do a cross-over
 
-> Currently transitioning to deep learning systems from applied AI engineering
+To sum up, I'm generally curious on how things work and tend to chase novelty. But I'm mainly under the AI field.
 
-### 🛠️ Field Expertise
+### 💻 Current Status: Learning On-The-Go Via Building
 
-| Domain | Track | Proficiency Level |
-| :--- | :--- | :--- |
-| **Machine Learning & Deep Learning** | Theory | `Proficient` |
-| | Applied | `Science: Intermediate` • `Systems: Beginner` |
-| **C++ & Computer Architecture** | Theory | `Beginner-Intermediate` |
-| | Engineering | `Software Eng: Beginner-Intermediate` • `Inference Eng: Beginner` |
+* **Applied LLM Engineering Projects**
+  * LLM Infrastructure
+  * AI Companion Memory
+  * AI Companion Emotion
+  * AI Session Emotion Classifier
+* **C++ Software Development**
+  * Basic Database Engine
+ 
+> Project links are below
+
+### 🎯 **Target Field:** ML Systems
 
 ---
 
@@ -46,7 +51,7 @@ the mechanisms in computers, but also build new things with the learned mechanis
 ---
 
 ### **🔬 LLM Research** [Auxilliary]
-> Co-authored two papers, contributed to the paper structure, research questions, and related studies.
+> Co-authored two papers, contributed to the paper structure, research questions, and running experiments.
 
 > Conceptual co-author, with experience in synthesizing literature into a coherent research question.
 
