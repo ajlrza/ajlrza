@@ -11,7 +11,6 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
   * LLM Infrastructure
   * AI Companion Memory
   * AI Companion Emotion
-  * AI Session Emotion Classifier
 * **C++ Software Development**
   * Lighweight Tag-Based Text Files Database
  
