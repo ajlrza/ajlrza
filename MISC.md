@@ -2,11 +2,6 @@
 
 Other parts of the portfolio are listed here, which were short-term interests I took on.
 
-```💬 NLP```
-
-• [**QSenti**](https://github.com/ajlrza/QSenti) <kbd>WIP</kbd>: Lightweight sentiment classifier for LLM sessions powered by VADER & Quantum-inspired Math
-<br>
-
 ```🤖 Deep Learning Project```
 
 • [**feedforward-neural-network**](https://github.com/ajlrza/feedforward-neural-network) <kbd>WIP</kbd>: A Feedforward Neural Network from scratch using PyTorch
