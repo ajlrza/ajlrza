@@ -8,7 +8,7 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 ### 💻 Current Status: Learning On-The-Go Via Building
 
 * **Applied LLM Engineering Projects**
-  * LLM Infrastructure
+  * LLM Router
   * AI Companion Memory
   * AI Companion Emotion
 * **C++ Software Development**
