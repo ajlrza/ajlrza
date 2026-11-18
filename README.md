@@ -11,9 +11,7 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
   * LLM Router
   * AI Companion Memory
   * AI Companion Emotion
-* **C++ Software Development**
-  * Lighweight Tag-Based Text Files Database
- 
+
 > Project links are below
 
 ### 🎯 **Target Field:** ML Systems
@@ -37,15 +35,6 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 • [**AetherRouter**](https://github.com/ajlrza/AetherRouter) <kbd>WIP</kbd>: Async, multi-provider LLM routing and fallback engine
 <br>
 •  [**Syneuro**](https://github.com/ajlrza/Syneuro) <kbd>WIP</kbd>: A lightweight Quantum-inspired Emotion Layer for AI Chatbots
-
----
-
-### **⚙️ C++ & System Project** [Core]
-> Building systems from first principles in C++: database engines today, deep learning and ML systems next.
-
-> Interested in what runs underneath: memory, storage, concurrency, and the compute that powers models.
-
-• [**KojinDB**](https://github.com/ajlrza/KojinDB) <kbd>WIP</kbd>: A lightweight personal database engine (個人, *kojin* = "personal") inspired by PostgreSQL. 
 
 ---
 
