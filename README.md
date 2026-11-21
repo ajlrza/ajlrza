@@ -1,7 +1,7 @@
 ## About Me
 
 Hi, I'm AJ, an aspiring **ML Systems Engineer**. I generally enjoy mechanisms in any concepts and got into computers. So I decided, let's go explore
-the mechanisms in computers, but also build new things with the learned mechanisms, but I learned computers can think so let's do a cross-over
+the mechanisms in computers and also build new things with the learned mechanisms, but I learned computers can think so let's do a cross-over
 
 To sum up, I'm generally curious on how things work and tend to chase novelty. But I'm mainly under the AI field.
 
