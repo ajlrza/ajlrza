@@ -14,8 +14,6 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 
 > Project links are below
 
-### 🎯 **Target Field:** ML Systems
-
 ---
 
 ### Languages
