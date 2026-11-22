@@ -23,10 +23,10 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 
 ---
 
-### **🤖 Applied LLM & MLLM Projects** 
+### **🤖 Applied LLM Projects** 
 > Working with post-trained LLM APIs and building softwares around them.
 
-> Systematic and architectural vision, understands both micro and macro-level.
+> Systematic and architectural vision, micro and macro-level.
 
 • [**MemoryGate**](https://github.com/ajlrza/MemoryGate) <kbd>WIP</kbd>: A lightweight memory layer for roleplay chat agents
 <br>
