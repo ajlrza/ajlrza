@@ -2,16 +2,6 @@
 
 Other parts of the portfolio are listed here, which were short-term interests I took on.
 
-```🤖 Deep Learning Project```
-
-• [**feedforward-neural-network**](https://github.com/ajlrza/feedforward-neural-network) <kbd>WIP</kbd>: A Feedforward Neural Network from scratch using PyTorch
-
-```⚡ Systems & Infrastructure```
-
-• [**ParamFinder**](https://github.com/ajlrza/ParamFinder): A system architecture proposal for a cloud-agnostic orchestration layer for asynchronous hyperparameter optimization.
-<br>
-• [**SYNAPSE**](https://github.com/ajlrza/SYNAPSE) <kbd>WIP</kbd>: A systems architecture proposal with technical write-up.
-
 ```Quantum Computing```
 
 • [**QMonitor**](https://github.com/ajlrza/QMonitor): Python monitor tool for quantum experiments in AWS and local environments.
@@ -22,17 +12,6 @@ Other parts of the portfolio are listed here, which were short-term interests I 
 
 • [**TS-PY-Toolkit**](https://github.com/ajlrza/Waitlister-API): Reusable codes for Python & TypeScript apps/software.
 <br>
-• [**Grayscale-Filter**](https://github.com/ajlrza/Grayscale-Filter): A mini application built with OpenCV for grayscale filtering.
-
-```🤖  Machine Learning Mini Exercises```
-
-• [**ZombieApoc-SupplyRun-Classifier**](https://github.com/ajlrza/ZombieApoc-SupplyRun-Classifier): A mini XGBoost classifier model trained for status screening.
-<br>
-• [**agriculture-prediction-model**](https://github.com/ajlrza/agriculture-prediction-model): A precision agriculture script identifying predictive soil nutrients.
-<br>
-• [**anime-ratings-prediction-model**](https://github.com/ajlrza/anime-ratings-prediction-model): A ML pipeline leveraging CatBoost Regression to predict ratings.
-<br>
-• [**reinforcement-learning-exercise**](https://github.com/ajlrza/reinforcement-learning-exercise): A foundational RL-inspired Python script.
 
 ```🤝 Open-Source & Community Contributions```
 
@@ -45,10 +24,3 @@ Other parts of the portfolio are listed here, which were short-term interests I 
 • [**A Mini Blog in Neuromophic Computing Security**](https://zenodo.org/records/23446329): Explanations and insights exploring neuromorphic computing architectures.
 
 <br>
-
-```ARCHIVED PROJECT```
-
-<br>
-
-Immersia - <img width="1358" height="567" alt="image" src="https://github.com/user-attachments/assets/9ab974d5-acc5-47eb-b80b-d82171aee605" />
-
