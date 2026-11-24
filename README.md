@@ -5,14 +5,7 @@ the mechanisms in computers and also build new things with the learned mechanism
 
 To sum up, I'm generally curious on how things work and tend to chase novelty. But I'm mainly under the AI field.
 
-### 💻 Current Status: Self-learning, finalizing projects, and working on 2 researches
-
-* **Applied LLM Engineering Projects**
-  * LLM Router
-  * AI Companion Memory
-  * AI Companion Emotion
-
-> Project links are below
+### 💻 Current Status: Self-learning, finalizing projects, and working on 2 research papers
 
 ---
 
