@@ -10,7 +10,7 @@ Other parts of the portfolio are listed here, which were short-term interests I 
 
 • [**ParamFinder**](https://github.com/ajlrza/ParamFinder): A system architecture proposal for a cloud-agnostic orchestration layer for asynchronous hyperparameter optimization.
 <br>
-• [**SYNAPSE**](https://github.com/ajlrza/SYNAPSE) <kbd>WIP</kbd>: A systems architecture proposal for a dual-cache, quantum-inspired memory architecture for AI agents.
+• [**SYNAPSE**](https://github.com/ajlrza/SYNAPSE) <kbd>WIP</kbd>: A systems architecture proposal with technical write-up.
 
 ```Quantum Computing```
 
@@ -43,3 +43,12 @@ Other parts of the portfolio are listed here, which were short-term interests I 
 ```📝 Technical Writing```
 
 • [**A Mini Blog in Neuromophic Computing Security**](https://zenodo.org/records/23446329): Explanations and insights exploring neuromorphic computing architectures.
+
+<br>
+
+```ARCHIVED PROJECT```
+
+<br>
+
+Immersia - <img width="1358" height="567" alt="image" src="https://github.com/user-attachments/assets/9ab974d5-acc5-47eb-b80b-d82171aee605" />
+
