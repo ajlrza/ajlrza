@@ -36,7 +36,7 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 
 ---
 
-### **🔬 LLM Research** [Auxilliary]
+### **🔬 LLM Research** 
 > Co-authored two papers, contributed to the paper structure, research questions, and running experiments.
 
 > Conceptual co-author, with experience in synthesizing literature into a coherent research question.
