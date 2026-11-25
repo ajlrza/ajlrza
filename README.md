@@ -16,7 +16,7 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 
 ---
 
-### **🤖 Applied LLM Projects** 
+### **🤖 Pinned Projects** 
 > Working with post-trained LLM APIs and building softwares around them.
 
 > Systematic and architectural vision, micro and macro-level.
@@ -24,8 +24,6 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 • [**MemoryGate**](https://github.com/ajlrza/MemoryGate) <kbd>WIP</kbd>: A lightweight memory layer for roleplay chat agents
 <br>
 • [**AetherRouter**](https://github.com/ajlrza/AetherRouter) <kbd>WIP</kbd>: Async, multi-provider LLM routing and fallback engine
-<br>
-•  [**Syneuro**](https://github.com/ajlrza/Syneuro) <kbd>WIP</kbd>: A lightweight Quantum-inspired Emotion Layer for AI Chatbots
 
 ---
 
