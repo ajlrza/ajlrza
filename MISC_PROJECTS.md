@@ -1,4 +1,4 @@
-## Miscellenous Information
+## Miscellenous Projects
 
 Other parts of the portfolio are listed here, which were short-term interests I took on.
 
