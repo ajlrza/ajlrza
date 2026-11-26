@@ -4,7 +4,7 @@ Other parts of the portfolio are listed here, which were short-term interests I 
 
 ```Affective Computing```
 <br>
-•  [**Syneuro**](https://github.com/ajlrza/Syneuro) <kbd>WIP</kbd>: A lightweight Quantum-inspired Emotion Layer for AI Chatbots
+•  [**Syneuro**](https://github.com/ajlrza/Syneuro) <kbd>WIP</kbd>: A Groq-based lightweight Quantum-inspired Emotion Layer for AI Chatbots
 
 ```Quantum Computing```
 
