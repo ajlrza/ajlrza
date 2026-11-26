@@ -10,9 +10,11 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 ---
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-Intermediate-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![C++](https://img.shields.io/badge/C%2B%2B-Beginner--Intermediate-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Language | Proficiency |
+| :--- | :--- |
+| **Python** | Intermediate |
+| **C++** | Beginner–Intermediate |
 
 ---
 
