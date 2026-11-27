@@ -18,20 +18,18 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 
 ---
 
-### **🤖 Pinned Projects** 
-> Working with post-trained LLM APIs and building softwares around them.
-
-> Systematic and architectural vision, micro and macro-level.
-
+### ** Pinned Projects** 
 • [**MemoryGate**](https://github.com/ajlrza/MemoryGate): A lightweight memory layer for roleplay chat agents
 <br>
 • [**AetherRouter**](https://github.com/ajlrza/AetherRouter): Async, multi-provider LLM routing and fallback engine
 <br>
-• [**Syneuro**](https://github.com/ajlrza/Syneuro): A Groq-based lightweight Quantum-inspired Emotion Layer for AI Chatbots
+• [**IntelDeep**](https://github.com/ajlrza/IntelDeep): Lightweight, deep learning library & benchmark against Intel I3
 
 ---
 
 ### **🔬 LLM Research** 
+
+```Co-author```:
 > Co-authored two papers, contributed to the paper structure, research questions, and running experiments.
 
 > Conceptual co-author, with experience in synthesizing literature into a coherent research question.
@@ -39,6 +37,13 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 • [**First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers**](https://arxiv.org/abs/2606.22361): Paper on the mechanistic origins of language identity and distributed robustness in Transformers.
 <br>
 • [**FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models**](https://arxiv.org/abs/2609.30954): Paper on determining and validating first-token broadcasters and language-identity head circuits in multilingual LLMs.
+<br>
+
+```First-author```:
+> Currently designing an entire research project
+
+• [**Is Constrained Narrating Reliable for Multimodal Visual Novels? An Evaluation of Schematic Input Performance in MLLMs**](https://github.com/ajlrza/Workshop-Reliability-Performance-of-Schemas): Paper on multimodal LLM evaluation in constrained decoding and state consistency for generated visual novel scenes.
+
 
 ---
 
