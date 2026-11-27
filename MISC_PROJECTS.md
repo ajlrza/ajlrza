@@ -2,18 +2,14 @@
 
 Other parts of the portfolio are listed here, which were short-term interests I took on.
 
-```Quantum Computing```
+```Developer Tools and Utilities```
 
 • [**QMonitor**](https://github.com/ajlrza/QMonitor): Python monitor tool for quantum experiments in AWS and local environments.
 <br>
-• [**QuantumRNG**](https://github.com/ajlrza/QuantumRNG): Quantum random number generator simulation built with Qiskit.
-
-```🌐 Applications & Web APIs```
-
 • [**TS-PY-Toolkit**](https://github.com/ajlrza/Waitlister-API): Reusable codes for Python & TypeScript apps/software.
 <br>
 
-```🤝 Open-Source & Community Contributions```
+```Open-Source & Community Contributions```
 
 • [**BIP324-MITM**](https://github.com/RazorBest/bip324-mitm/pull/22): Security contribution exploring Bitcoin's P2P encrypted transport protocol man-in-the-middle vectors.
 <br>
