@@ -26,6 +26,8 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 • [**MemoryGate**](https://github.com/ajlrza/MemoryGate) <kbd>WIP</kbd>: A lightweight memory layer for roleplay chat agents
 <br>
 • [**AetherRouter**](https://github.com/ajlrza/AetherRouter) <kbd>WIP</kbd>: Async, multi-provider LLM routing and fallback engine
+<br>
+• [**Syneuro**](https://github.com/ajlrza/Syneuro): A Groq-based lightweight Quantum-inspired Emotion Layer for AI Chatbots
 
 ---
 
