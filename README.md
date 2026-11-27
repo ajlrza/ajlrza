@@ -18,7 +18,7 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 
 ---
 
-### ** Pinned Projects** 
+### **Pinned Projects** 
 • [**MemoryGate**](https://github.com/ajlrza/MemoryGate): A lightweight memory layer for roleplay chat agents
 <br>
 • [**AetherRouter**](https://github.com/ajlrza/AetherRouter): Async, multi-provider LLM routing and fallback engine
