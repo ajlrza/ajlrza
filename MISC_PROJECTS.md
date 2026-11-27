@@ -2,6 +2,9 @@
 
 Other parts of the portfolio are listed here, which were short-term interests I took on.
 
+```LLM Software Library```
+• [**Syneuro**](https://github.com/ajlrza/Syneuro): A Groq-based lightweight Quantum-inspired Emotion Layer for AI Chatbots
+
 ```Developer Tools and Utilities```
 
 • [**QMonitor**](https://github.com/ajlrza/QMonitor): Python monitor tool for quantum experiments in AWS and local environments.
