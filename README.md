@@ -23,9 +23,9 @@ To sum up, I'm generally curious on how things work and tend to chase novelty. B
 
 > Systematic and architectural vision, micro and macro-level.
 
-• [**MemoryGate**](https://github.com/ajlrza/MemoryGate) <kbd>WIP</kbd>: A lightweight memory layer for roleplay chat agents
+• [**MemoryGate**](https://github.com/ajlrza/MemoryGate): A lightweight memory layer for roleplay chat agents
 <br>
-• [**AetherRouter**](https://github.com/ajlrza/AetherRouter) <kbd>WIP</kbd>: Async, multi-provider LLM routing and fallback engine
+• [**AetherRouter**](https://github.com/ajlrza/AetherRouter): Async, multi-provider LLM routing and fallback engine
 <br>
 • [**Syneuro**](https://github.com/ajlrza/Syneuro): A Groq-based lightweight Quantum-inspired Emotion Layer for AI Chatbots
 
